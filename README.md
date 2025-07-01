@@ -1,2 +1,2 @@
 # backend-day-1
-Basic Node.js server created on Day 1 of backend development.
+Day 1 of Backend Development - Created a basic Node.js server that sends a "Hello World" response. Sheryians Coding School project.
